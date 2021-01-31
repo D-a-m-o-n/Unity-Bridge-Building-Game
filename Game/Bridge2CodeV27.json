@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "the f",
-"productVersion": "0.1",
+"productName": "Bridge2Code",
+"productVersion": "0.5.27",
 "dataUrl": "Bridge2CodeV27.data.unityweb",
 "wasmCodeUrl": "Bridge2CodeV27.wasm.code.unityweb",
 "wasmFrameworkUrl": "Bridge2CodeV27.wasm.framework.unityweb",
